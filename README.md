@@ -31,9 +31,7 @@ Data Visualization (Optional): As an enhancement you could provide basic data vi
 npm install
 
 5. Start the server
-6. 
-
-nodemon index.js
+6. nodemon index.js
 
 
 
@@ -45,9 +43,8 @@ Technologies used in the project:
 
 Node Js
 
-Mongodb Atlas
-
 CSS
 
 Express JS
+
 VS CODE
